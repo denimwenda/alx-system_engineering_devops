@@ -1,1 +1,1 @@
-switch current user
+sets the mode
